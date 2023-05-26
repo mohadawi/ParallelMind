@@ -1,0 +1,7 @@
+places to change the Item
+--------------------------
+1- change the baseUrl in viewDidLoad and variable defenition
+2- change the itemType in ViewController
+
+Next important fix
+1- in getRequestAPICall find a way to generalize the create method(done with ItemFactory) on March4,2023
